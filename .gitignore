@@ -1,0 +1,13 @@
+# Dataset
+data/*.csv
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+env/
+
+# macOS
+.DS_Store
